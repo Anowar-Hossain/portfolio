@@ -1,0 +1,80 @@
+body{
+    font-family: 'Poppins', sans-seri
+}
+h1{
+    font-size: 60px;
+    margin: 0;
+    padding: 0;
+
+}
+.orange-highlight{
+    color: orange;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient( lightsalmon,tomato);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    padding: 20px 30px 20px 30px;
+    margin-left: 10%;
+}
+h2{
+    margin-left: 450px;
+    font-size: 40px;
+}
+.color-highlight{
+    color: brown;
+}
+.one-third-width{
+    width: 29%;
+    float: left;
+    padding: 4%;
+    margin-left: 2%;
+    height: 50%;
+    margin-bottom: 4%;
+}
+.one-third-width img{
+    width: 100%;
+}
+.warking-shadow{
+    box-shadow: 5px 5px 40px gray;
+    padding: 5px 10px;
+    border-radius: 10px;
+    height: 65%;
+}
+h2{
+    clear: both;
+}
+
+.last-section{
+    background-image: url("images/Group_33094_1.png");
+    background-position: center;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+#work{
+    margin-left: 300px;
+    color: white;
+    
+}
+#button{
+    margin-left: 800px;
+}
+
+    
